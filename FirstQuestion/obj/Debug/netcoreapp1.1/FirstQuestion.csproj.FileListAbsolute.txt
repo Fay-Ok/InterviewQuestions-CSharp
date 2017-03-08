@@ -1,0 +1,8 @@
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/bin/Debug/netcoreapp1.1/FirstQuestion.deps.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/bin/Debug/netcoreapp1.1/FirstQuestion.runtimeconfig.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/bin/Debug/netcoreapp1.1/FirstQuestion.runtimeconfig.dev.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/bin/Debug/netcoreapp1.1/FirstQuestion.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/bin/Debug/netcoreapp1.1/FirstQuestion.pdb
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/obj/Debug/netcoreapp1.1/FirstQuestion.AssemblyInfo.cs
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/obj/Debug/netcoreapp1.1/FirstQuestion.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/FirstQuestion/obj/Debug/netcoreapp1.1/FirstQuestion.pdb
