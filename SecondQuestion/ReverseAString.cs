@@ -3,8 +3,9 @@
 namespace SecondQuestion {
     class ReverseAString {
         static void Main (string[] args) {
-            GetReverseString ("Farzaneh is so cool!\0");
-            getStringWithoutLib ("Farzaneh is so cool!\0");
+            const string reversableString = "Today was sunny!\0";
+            GetReverseString(reversableString);
+            getStringWithoutLib(reversableString);
         }
 
         private static void GetReverseString (string str) {
@@ -17,7 +18,7 @@ namespace SecondQuestion {
             char[] strArray = new char[str.Length];
 
             var stringLength = str.Length - 1;
-            for (int i = str.Length - 1; i >= 0; i--) {
+            for (int i = stringLength; i >= 0; i--) {
                 strArray[stringLength - i] = str[i];
             }
             Console.WriteLine (strArray);
