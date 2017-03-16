@@ -17,10 +17,8 @@ namespace ForthQuestion {
                 int asciCode = str[i];
                 newString[i] = str[i].ToString ();
 
-                if (asciCode == 32) {
+                if (asciCode == 32)
                     newString[i] = replacedChar;
-                    Console.WriteLine (asciCode);
-                }
 
             }
             Console.WriteLine (string.Join ("", newString));
