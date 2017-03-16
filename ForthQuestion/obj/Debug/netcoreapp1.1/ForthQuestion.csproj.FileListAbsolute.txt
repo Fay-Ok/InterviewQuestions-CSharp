@@ -1,0 +1,8 @@
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/bin/Debug/netcoreapp1.1/ForthQuestion.deps.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/bin/Debug/netcoreapp1.1/ForthQuestion.runtimeconfig.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/bin/Debug/netcoreapp1.1/ForthQuestion.runtimeconfig.dev.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/bin/Debug/netcoreapp1.1/ForthQuestion.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/bin/Debug/netcoreapp1.1/ForthQuestion.pdb
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/obj/Debug/netcoreapp1.1/ForthQuestion.AssemblyInfo.cs
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/obj/Debug/netcoreapp1.1/ForthQuestion.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/ForthQuestion/obj/Debug/netcoreapp1.1/ForthQuestion.pdb
