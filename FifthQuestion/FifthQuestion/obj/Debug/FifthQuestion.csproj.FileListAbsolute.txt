@@ -1,0 +1,6 @@
+c:\users\forak\documents\visual studio 2017\Projects\FifthQuestion\FifthQuestion\bin\Debug\FifthQuestion.exe.config
+c:\users\forak\documents\visual studio 2017\Projects\FifthQuestion\FifthQuestion\bin\Debug\FifthQuestion.exe
+c:\users\forak\documents\visual studio 2017\Projects\FifthQuestion\FifthQuestion\bin\Debug\FifthQuestion.pdb
+c:\users\forak\documents\visual studio 2017\Projects\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.csprojResolveAssemblyReference.cache
+c:\users\forak\documents\visual studio 2017\Projects\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.exe
+c:\users\forak\documents\visual studio 2017\Projects\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.pdb
