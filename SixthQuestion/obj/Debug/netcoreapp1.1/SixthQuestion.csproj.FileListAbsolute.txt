@@ -1,0 +1,8 @@
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/bin/Debug/netcoreapp1.1/SixthQuestion.deps.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/bin/Debug/netcoreapp1.1/SixthQuestion.runtimeconfig.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/bin/Debug/netcoreapp1.1/SixthQuestion.runtimeconfig.dev.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/bin/Debug/netcoreapp1.1/SixthQuestion.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/bin/Debug/netcoreapp1.1/SixthQuestion.pdb
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/obj/Debug/netcoreapp1.1/SixthQuestion.AssemblyInfo.cs
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/obj/Debug/netcoreapp1.1/SixthQuestion.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/SixthQuestion/obj/Debug/netcoreapp1.1/SixthQuestion.pdb
