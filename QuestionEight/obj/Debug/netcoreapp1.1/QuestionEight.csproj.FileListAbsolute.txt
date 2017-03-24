@@ -1,0 +1,8 @@
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/bin/Debug/netcoreapp1.1/QuestionEight.deps.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/bin/Debug/netcoreapp1.1/QuestionEight.runtimeconfig.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/bin/Debug/netcoreapp1.1/QuestionEight.runtimeconfig.dev.json
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/bin/Debug/netcoreapp1.1/QuestionEight.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/bin/Debug/netcoreapp1.1/QuestionEight.pdb
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/obj/Debug/netcoreapp1.1/QuestionEight.AssemblyInfo.cs
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/obj/Debug/netcoreapp1.1/QuestionEight.dll
+/Users/FarzanehOrak/CSharpProjects/InterviewQuestions-CSharp/QuestionEight/obj/Debug/netcoreapp1.1/QuestionEight.pdb
