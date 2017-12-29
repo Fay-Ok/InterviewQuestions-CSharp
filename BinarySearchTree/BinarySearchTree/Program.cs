@@ -26,7 +26,7 @@ namespace BinarySearchTree
                 bst.Insert(30);
                 bst.Insert(35);
 
-                bst.InOrderBST();
+                //bst.InOrderBST();
                 bst.FilterNodesWithinRange(min, max);
 
                 Console.WriteLine(bst.FindNode(23));

@@ -53,6 +53,7 @@ namespace BinarySearchTree
             else
             {
                 _root.FilterSubTree(min, max);
+                
             }
 
         }

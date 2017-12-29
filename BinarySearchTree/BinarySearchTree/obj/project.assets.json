@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\forak\\Desktop\\jobs\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
+      "projectUniqueName": "C:\\Users\\forak\\Desktop\\jobs\\InterviewQuestions-CSharp\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
       "projectName": "BinarySearchTree",
-      "projectPath": "C:\\Users\\forak\\Desktop\\jobs\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
-      "outputPath": "C:\\Users\\forak\\Desktop\\jobs\\BinarySearchTree\\BinarySearchTree\\obj\\",
+      "projectPath": "C:\\Users\\forak\\Desktop\\jobs\\InterviewQuestions-CSharp\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
+      "outputPath": "C:\\Users\\forak\\Desktop\\jobs\\InterviewQuestions-CSharp\\BinarySearchTree\\BinarySearchTree\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
